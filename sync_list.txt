@@ -115,3 +115,4 @@ shilei-massclouds/sys
 shilei-massclouds/task
 shilei-massclouds/taskctx
 shilei-massclouds/wait_queue
+seL4/rust-sel4
